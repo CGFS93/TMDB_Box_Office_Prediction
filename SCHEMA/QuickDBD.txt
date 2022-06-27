@@ -1,0 +1,33 @@
+Movies
+-
+Id PK int
+Title string INDEX
+Runtime int
+Genres varchar
+Release_date date
+Production_companies varchar
+
+
+"Budget"
+-
+Id PK int
+Title string INDEX FK >- Movies.Id
+Budget money
+ 
+
+
+Production 
+-
+Title string INDEX FK >- budget.Title
+Cast varchar
+Crew varchar
+Budget money
+Revenue money
+Original_language varchar
+Production_companies varchar
+Production_Countries varchar
+
+"Total Revenue"
+-
+Title string INDEX FK >- Production.title
+Revenue money
