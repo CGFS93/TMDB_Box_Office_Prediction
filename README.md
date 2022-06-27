@@ -1,4 +1,4 @@
-# Topic: TMDB Box Office Prediction
+# TMDB Box Office Prediction
 
 ## Overview
 
