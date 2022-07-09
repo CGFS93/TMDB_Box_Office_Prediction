@@ -1,3 +1,0 @@
--cleaning up data D.types
--Import new d.types data
--upload new df with proper d.types
