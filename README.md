@@ -45,12 +45,16 @@ This dataset comes from Kaggle, which was originally sourced from TMDB. The movi
 - Crew (Feature)
 - Revenue (Target)
 
-
-## Analysis Questions:
-
-- what movies make the most money at the box office? 
-- How much does a director matter? 
-- How much does the budget matter?
-- What has more influence on revenue: director Vs budget?
+## Questions the team hopes to answer with the data:
+- How does budget influence revenue?
+- What is the average revenue for each genre
+    - Are there genres that have higher revenues than others?
+- Of those that had a homepage, what did their revenue look like in comparison to those that didn’t have a home page?
+- Did production companies have a major influence on revenue?
+- Which production company had the highest average revenue?
+- Release date vs inflation rate at the time the movie was released?
+    - Adjusted revenue after inflation is considered?
+        - This would probably require another dataset with inflation rate history?
+- What was the average revenue per cast and crew member per movie
  
 
