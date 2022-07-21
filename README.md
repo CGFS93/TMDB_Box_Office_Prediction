@@ -57,4 +57,7 @@ This dataset comes from Kaggle, which was originally sourced from TMDB. The movi
         - This would probably require another dataset with inflation rate history?
 - What was the average revenue per cast and crew member per movie
  
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/98966503/180134314-693c9251-e706-46f0-bdd9-87f3bd0fa313.png"> 
+</p>
 
